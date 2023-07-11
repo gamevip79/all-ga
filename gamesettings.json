@@ -3,13 +3,13 @@
     	"nsdk" : false,
 		"fbId": "849564462566047",
 		"android": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 1,
 			"market": ""
 		},
 		"ios": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 1,
 			"market": ""
@@ -19,13 +19,13 @@
 		"nsdk" : false,
 		"fbId": "473168177268819",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
@@ -35,13 +35,13 @@
 		"nsdk" : false,
 		"fbId": "437065974225359",
 		"android": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 1,
 			"market": ""
 		},
 		"ios": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 1,
 			"market": ""
@@ -51,13 +51,13 @@
 		"nsdk" : false,
 		"fbId": "849564462566047",
 		"android": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 1,
 			"market": ""
 		},
 		"ios": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 1,
 			"market": ""
@@ -67,13 +67,13 @@
 		"nsdk" : false,
 		"fbId": "1199726093888996",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
@@ -83,13 +83,13 @@
 		"nsdk" : false,
 		"fbId": "1199726093888996",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
@@ -99,13 +99,13 @@
 		"nsdk" : false,
 		"fbId": "632396161328521",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
@@ -115,13 +115,13 @@
 		"nsdk" : false,
 		"fbId": "1199726093888996",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
@@ -131,7 +131,7 @@
 		"nsdk" : false,
 		"fbId": "535275324787821",
 		"android": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 0,
 			"market": "",
@@ -140,7 +140,7 @@
 			"content" : "VN|TW|KH|JP|LA|CN"
 		},
 		"ios": {
-			"hotUpdateUrl": "https://res-v99.bis2.xyz",
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
 			"verifyPassed": false,
 			"version": 1,
 			"market": ""
@@ -150,7 +150,7 @@
 		"nsdk" : true,
 		"fbId": "1116282175890551",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": "",
@@ -158,7 +158,7 @@
 				"content" : "VN|TW|KH|JP|LA|CN"
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
@@ -167,7 +167,7 @@
 	"Diamond" : {
 		"fbId": "696173861685532",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 0,
 				"market": "",
@@ -176,7 +176,7 @@
 				"content" : "VN|TW|KH|JP|LA|CN"
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
@@ -186,14 +186,14 @@
 		"nsdk" : true,
 		"fbId": "696173861685532",
 			"android": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 0,
 				"market": "",
 				"content" : "VN|TW|KH|JP|LA|CN"
 			},
 			"ios": {
-				"hotUpdateUrl": "https://res-v99.bis2.xyz",
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
 				"verifyPassed": false,
 				"version": 1,
 				"market": ""
