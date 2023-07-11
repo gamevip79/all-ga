@@ -1,697 +1,656 @@
 {
-  "v99bunny": {
-    "nsdk" : false,
-      "fbId": "849564462566047",
-      "android": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      },
-      "ios": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      }
+    "SapNo": {
+    	"nsdk" : false,
+		"fbId": "849564462566047",
+		"android": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 1,
+			"market": ""
+		},
+		"ios": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 1,
+			"market": ""
+		}
+	},
+	"BumpyRoad":{
+		"nsdk" : false,
+		"fbId": "473168177268819",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+	"SapNo2": {
+		"nsdk" : false,
+		"fbId": "437065974225359",
+		"android": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 1,
+			"market": ""
+		},
+		"ios": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 1,
+			"market": ""
+		}
+	},
+	"SapNoRoyal": {
+		"nsdk" : false,
+		"fbId": "849564462566047",
+		"android": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 1,
+			"market": ""
+		},
+		"ios": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 1,
+			"market": ""
+		}
+	},
+	"99vin" : {
+		"nsdk" : false,
+		"fbId": "1199726093888996",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+	"BenVip" : {
+		"nsdk" : false,
+		"fbId": "1199726093888996",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+	"Vinluxury" : {
+		"nsdk" : false,
+		"fbId": "632396161328521",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+	"VinLov9" : {
+		"nsdk" : false,
+		"fbId": "1199726093888996",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+	"TicTacToe" : {
+		"nsdk" : false,
+		"fbId": "535275324787821",
+		"android": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 0,
+			"market": "",
+			"loc": "XTZ",
+			"timez" : "|7|",
+			"content" : "VN|TW|KH|JP|LA|CN"
+		},
+		"ios": {
+			"hotUpdateUrl": "https://9v-res.respack.xyz",
+			"verifyPassed": false,
+			"version": 1,
+			"market": ""
+		}
+	},
+	"sieuno" : {
+		"nsdk" : true,
+		"fbId": "1116282175890551",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": "",
+				"loc": "VN",
+				"content" : "VN|TW|KH|JP|LA|CN"
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+	"Diamond" : {
+		"fbId": "696173861685532",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 0,
+				"market": "",
+				"loc": "KLL",
+				"timez" : "|7|",
+				"content" : "VN|TW|KH|JP|LA|CN"
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+	"99NotSdk" : {
+		"nsdk" : true,
+		"fbId": "696173861685532",
+			"android": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 0,
+				"market": "",
+				"content" : "VN|TW|KH|JP|LA|CN"
+			},
+			"ios": {
+				"hotUpdateUrl": "https://9v-res.respack.xyz",
+				"verifyPassed": false,
+				"version": 1,
+				"market": ""
+			}
+	},
+  "thirdPartyGame": {
+    "fishgame": {
+      "enable": true,
+      "src": "https://fresource.gtagent.shop/web/index.html",
+      "event": "https://fapi.gtagent.shop/game-api/v1/game/jackpot_info"
     },
-    "BumpyRoad":{
-      "nsdk" : false,
-      "fbId": "473168177268819",
-        "android": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        },
-        "ios": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        }
-    },
-    "apptankwar": {
-      "nsdk" : false,
-      "fbId": "437065974225359",
-      "android": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      },
-      "ios": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      }
-    },
-    "burry": {
-      "nsdk" : true,
-      "fbId": "480975057339997",
-      "android": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      },
-      "ios": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      }
-    },
-    "99vin" : {
-      "nsdk" : false,
-      "fbId": "1199726093888996",
-        "android": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        },
-        "ios": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 0,
-          "market": ""
-        }
-    },
-    "k8vin" : {
-      "nsdk" : false,
-      "fbId": "632396161328521",
-        "android": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        },
-        "ios": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        }
-    },
-    "VinLov9" : {
-      "nsdk" : false,
-      "fbId": "1199726093888996",
-        "android": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        },
-        "ios": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        }
-    },
-    "99NotSdk" : {
-      "nsdk" : true,
-      "fbId": "535275324787821",
-      "android": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": "",
-        "loc": "VN",
-        "timez" : "|7|",
-        "content" : "VN|TW|KH|JP|LA|CN"
-      },
-      "ios": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      }
-    },
-    "sieuno" : {
-      "nsdk" : true,
-      "fbId": "1116282175890551",
-        "android": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": "",
-          "loc": "VN",
-          "content" : "VN|TW|KH|JP|LA|CN"
-        },
-        "ios": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        }
-    },
-    "apkland1" : {
-      "fbId": "696173861685532",
-        "android": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": -1,
-          "market": "",
-          "loc": "KLL",
-          "mg" : "|7|",
-          "content" : "VN|TW|KH|JP|LA|CN"
-        },
-        "ios": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        }
-    },
-    "cafevin" : {
-      "nsdk" : false,
-      "fbId": "490911982929084",
-      "android": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 0,
-        "market": "",
-        "loc": "VN",
-        "t" : "|7|",
-        "content" : "VN|TW|KH|JP|LA|CN"
-      },
-      "ios": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      }
-    },
-    "thecat" : {
-      "nsdk" : false,
-      "fbId": "490911982929084",
-      "android": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 0,
-        "market": "",
-        "loc": "VN",
-        "t" : "|7|",
-        "content" : "VN|TW|KH|JP|LA|CN"
-      },
-      "ios": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      }
-    },
-    "apsupersniper" : {
-      "nsdk" : false,
-      "fbId": "490911982929084",
-      "android": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 0,
-        "market": "",
-        "loc": "VN",
-        "t" : "|7|",
-        "content" : "VN|TW|KH|JP|LA|CN"
-      },
-      "ios": {
-        "hotUpdateUrl": "https://9v-res.respack.xyz",
-        "verifyPassed": false,
-        "version": 1,
-        "market": ""
-      }
-    },
-    "99Vin" : {
-      "nsdk" : false,
-      "fbId": "1199726093888996",
-        "android": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 1,
-          "market": ""
-        },
-        "ios": {
-          "hotUpdateUrl": "https://9v-res.respack.xyz",
-          "verifyPassed": false,
-          "version": 0,
-          "market": ""
-        }
-    },
-    "thirdPartyGame": {
-      "fishgame": {
-        "enable": true,
-        "src": "https://fresource.gtagent.shop/web/index.html",
-        "event": "https://fapi.gtagent.shop/game-api/v1/game/jackpot_info"
-      },
-      "planegame": {
-        "enable": true,
-        "src": "https://presource.gtagent.shop/web/index.html",
-        "event": "https://papi.gtagent.shop/game-api/v1/game/jackpot_info"
-      }
-    },
-     "version": "1.2.5",
-    "isLoad": true,
-    "gateID": "gate",
-    "maintain": false,
-    "maintainMessage": "Maintain",
-    "teleApp": "",
-    "fbId": "437065974225359",
-    "portal": "https://portal.gtagent.shop/",
-    "gateway" : "https://gateway.gtagent.shop/",
-    "loginFB": "https://portal.gtagent.shop/Authen/LoginFacebook",
-    "loginWeb": "https://portal.gtagent.shop/Authen/Login/",
-    "lms": "Authen/Login",
-    "loginOtp": "OTPAPI/LoginVerifyOTP",
-    "refreshToken": "Authen/RefreshToken",
-    "lw": "Authen/lw",
-    "logout": "Authen/logout",
-    "loginVipcode": "Authen/LoginVipcode",
+    "planegame": {
+      "enable": true,
+      "src": "https://presource.gtagent.shop/web/index.html",
+      "event": "https://papi.gtagent.shop/game-api/v1/game/jackpot_info"
+    }
+  },
+   "version": "1.2.5",
+  "isLoad": true,
+  "gateID": "gate",
+  "maintain": false,
+  "maintainMessage": "Maintain",
+  "teleApp": "",
+  "fbId": "437065974225359",
+  "portal": "https://portal.gtagent.shop/",
+  "gateway" : "https://gateway.gtagent.shop/",
+  "loginFB": "https://portal.gtagent.shop/Authen/LoginFacebook",
+  "loginWeb": "https://portal.gtagent.shop/Authen/Login/",
+  "lms": "Authen/Login",
+  "loginOtp": "OTPAPI/LoginVerifyOTP",
+  "refreshToken": "Authen/RefreshToken",
+  "lw": "Authen/lw",
+  "logout": "Authen/logout",
+  "loginVipcode": "Authen/LoginVipcode",
     "fanpage": "https://www.facebook.com/99vina",
-    "facebookMessage": "https://www.facebook.com/messages/t/104071665904521",
+  "facebookMessage": "https://www.facebook.com/messages/t/100780068609753",
     "teleNews": "https://t.me/kenhtintuc99Vin",
     "support": "https://t.me/congdong99vin",
     "group": "https://www.facebook.com/groups/hoiquan99vin",
     "groupTele": "https://t.me/congdong99vin",
-    "captcha": "Captcha/Get",
-    "register": "Authen/Register",
-    "accInfo": "Authen/GetAccountInfo",
-    "loadAccountInfo": "Account/AccountInfo",
-    "resetPw": "Account/ResetPassword",
-    "resetPasswordCheck": "Account/ResetPasswordCheck",
-    "updateAcc": "Account/UpdateAccount",
-    "changePass": "Account/ChangePass",
-    "changePassConfirm": "OTPAPI/ChangePassVerifyOTP",
-    "updateEmail": "Account/UpdateEmail",
-    "getInfo": "Account/GetInfo",
-    "registerOTP": "Account/RegisterOTP",
-    "registerLoginOTP": "Account/RegisterLoginOTP",
-    "getOTPByEmail": "Account/GetOTPByEmail",
-    "likeStatus": "account/",
-    "chargingCard": "MoneyChange/chargingCard",
-    "getCardRate": "MoneyChange/GetCardRate",
-    "changeQToXu": "MoneyChange/changeQToXu",
-    "history": "MoneyChange/getTransactionLogs",
-    "buyCard": "MoneyChange/buyCard",
-    "cashoutHistory": "MoneyChange/cashoutHistory",
-    "getTransferHistory": "MoneyChange/getTransferHistory",
-    "getHistoryBank": "https://gateway.gtagent.shop/service/GetHistoryBank",
-    "smsHistory": "MoneyChange/smsHistory",
-    "chargingHistory": "MoneyChange/chargingHistory",
-    "getCardInfo": "https://gateway.gtagent.shop/service/GetCardInfo",
-    "transfer": "MoneyChange/Transfer",
-    "telegramBot": "https://t.me/vin_otp_gbot",
-    "telegramCare": "https://t.me/congdong99vin",
-    "linkGooglePlay": "",
-    "linkAppStore": "",
-    "linkAndroidFile": "",
-    "linkIosFile": "",
-    "urlDirectFacebook": "",
-    "guild": {
-      "getListAgency": "Guild/GameAgencies",
-      "getAgencyDetail": "Guild/GameAgencyDetail",
-      "getListMember": "Guild/GetListMember",
-      "acceptRequest": "Guild/AcceptRequest",
-      "updateRule": "Guild/UpdateRule",
-      "requestJoinAgency": "Guild/RequestJoinAgency"
-    },
-    "userTransfer": "Report/transferReport",
-    "rateTransfer": "Report/getTransferRate",
-    "updateFullName": "Account/UpdateUserFullName",
-    "updateFullNameFB": "Account/UpdateUserFullNameFB",
-    "getEventAccInfo": "Mobile/GetEventAccountInfo",
-    "setEventAccInfo": "Mobile/SetEventAccountInfo",
-    "profile": "Profile/GetUserProfile",
-    "ranking": "Profile/getLeaderBoard",
-    "napXuHistory": "MoneyChange/napXuHistory",
-    "giftCode": "Account/GiftCode",
-    "vipCode": "Authen/LoginVipCode",
-    "checkOTP": "Privacy/VerifyOTP",
-    "getAgencies": "MoneyChange/GetBankInfo",
-    "agenciesTotal": "Agency/GetAgencies",
-    "genCodeBank": "https://gateway.gtagent.shop/service/TopupBank",
-    "checkAccountExists": "Account/CheckAccountExists",
-    "changeMobile": "Account/ChangeMobile",
-    "getFrozen": "Account/getFrozen",
-    "frozen": "Account/frozen",
-    "TransferHistory": "MoneyChange/TransferHistory",
-    "updateFirebaseKey": "Account/updateFirebaseKey",
-    "updateMobile": "Account/updateMobile",
-    "getOTPsms": "OTPAPI/getOtpSMS",
-    "getOtpSMSAuthen": "OTPAPI/getOtpSMSEx",
-    "deleteMobile": "Account/deleteMobile",
-    "getLoyalty": "Account/getLoyalty",
-    "iapURL": "MoneyChange/iap",
-    "trackingNewUser": "",
-    "thanhtoan": "",
-    "urlFb": "https://www.facebook.com/v2.12/dialog/oauth?",
-    "vipPointLevel": "Loyalty/getVPLevel",
-    "userVipPoint": "Loyalty/getVPInfo",
-    "userVipPointHistory": "Loyalty/getTopReward",
-    "topRankVipPoint": "Loyalty/TopVP",
-    "PayReward" : "Loyalty/PayReward",
-    "linkTelegram": "https://telegram.org/",
-    "helpTelegram": "https://youtu.be/",
-    "MoneyOTPSMS": "1000",
-    "SendTelegramOTP": "OTPAPI/TelegramOTP",
-    "SendTelegramOTPEX": "OTPAPI/TelegramOTPEX",
-    "inbox": {
-      "getNotifyAll": "http://inboxapi.gtagent.shop/Notify/getNotifyAll",
-      "NotifyAndInboxGetList": "http://inboxapi.gtagent.shop/Notify/NotifyAndInboxGetList",
-      "NotifyGetDetail": "http://inboxapi.gtagent.shop/Notify/NotifyGetDetail",
-      "InboxGetDetail": "http://inboxapi.gtagent.shop/Inbox/InboxGetDetail",
-      "NotifyDelete": "http://inboxapi.gtagent.shop/Notify/NotifyDelete",
-      "InboxDelete": "http://inboxapi.gtagent.shop/Inbox/InboxDelete"
-    },
-    "getInfoMomo": "https://gateway.gtagent.shop/service/GetInfoMomo?amount=",
-    "transferFee": 2,
-    "qualityCardAllow": 3,
-    "feeChangeNickname": "50.000",
-    "iap": true,
-    "telco": "",
-    "telcoTopupSMS": "",
-    "smsOtp": "",
-    "napSMS": "",
-    "maxLevel": "200",
-    "rateBonToBac": 100,
-    "rateBonToCard": 115,
-    "rateCardToBon": 100,
-    "rateGateToBon": 100,
-    "rateSMSToBon": 0.5,
-    "promotion": 0,
-    "showAgency": true,
-    "tongDai": "",
-    "OTPMoney": "5.000",
-    "slot": true,
-    "public": true,
-    "showNapSMS": false,
-    "comingSoon": false,
-    "comingSoonText": "",
-    "events_x2": {
-      "url": "Event/EventX2",
-      "X2Prize": "Event/EventX2Prize"
-    },
-    "events": {
-      "url": "http://event.gtagent.shop/vqmm/",
-      "getTurnQuantity": "event/vqmmget",
-      "spin": "event/vqmmspin",
-      "captcha": "captcha/get",
-      "getPrizes": "http://event.gtagent.shop/vqmm/event/GetPrizes",
-      "GetBin": "http://event.gtagent.shop/vqmm/event/GetBin",
-      "GetCard": "http://event.gtagent.shop/vqmm/event/GetCard",
-      "DuDay": {
-        "GetEventTopRank": "http://tx.gtagent.shop/service/GetEventTopRank",
-        "GetEventTopMonthRank": "http://tx1.bon.club/service/GetEventTopMonthlyRank",
-        "GetEventTopQuarterRank": "http://tx1.bon.club/service/GetEventTopQuarterRank",
-        "GetPrizes": "http://tx.gtagent.shop/service/GetPrizes",
-        "GetBin": "http://tx.gtagent.shop/service/service/GetBin",
-        "GetBonFromMonthlyPrize": "http://tx.gtagent.shop/service/service/GetBonFromMonthlyPrize"
-      }
-    },
-    "taixiu": {
+  "captcha": "Captcha/Get",
+  "register": "Authen/Register",
+  "accInfo": "Authen/GetAccountInfo",
+  "loadAccountInfo": "Account/AccountInfo",
+  "resetPw": "Account/ResetPassword",
+  "resetPasswordCheck": "Account/ResetPasswordCheck",
+  "updateAcc": "Account/UpdateAccount",
+  "changePass": "Account/ChangePass",
+  "changePassConfirm": "OTPAPI/ChangePassVerifyOTP",
+  "updateEmail": "Account/UpdateEmail",
+  "getInfo": "Account/GetInfo",
+  "registerOTP": "Account/RegisterOTP",
+  "registerLoginOTP": "Account/RegisterLoginOTP",
+  "getOTPByEmail": "Account/GetOTPByEmail",
+  "likeStatus": "account/",
+  "chargingCard": "MoneyChange/chargingCard",
+  "getCardRate": "MoneyChange/GetCardRate",
+  "changeQToXu": "MoneyChange/changeQToXu",
+  "history": "MoneyChange/getTransactionLogs",
+  "buyCard": "MoneyChange/buyCard",
+  "cashoutHistory": "MoneyChange/cashoutHistory",
+  "getTransferHistory": "MoneyChange/getTransferHistory",
+  "getHistoryBank": "https://gateway.gtagent.shop/service/GetHistoryBank",
+  "smsHistory": "MoneyChange/smsHistory",
+  "chargingHistory": "MoneyChange/chargingHistory",
+  "getCardInfo": "https://gateway.gtagent.shop/service/GetCardInfo",
+  "transfer": "MoneyChange/Transfer",
+  "telegramBot": "https://t.me/vin_otp_gbot",
+"telegramCare": "https://t.me/CSKH999VIN",
+  "linkGooglePlay": "",
+  "linkAppStore": "",
+  "linkAndroidFile": "",
+  "linkIosFile": "",
+  "urlDirectFacebook": "",
+  "guild": {
+    "getListAgency": "Guild/GameAgencies",
+    "getAgencyDetail": "Guild/GameAgencyDetail",
+    "getListMember": "Guild/GetListMember",
+    "acceptRequest": "Guild/AcceptRequest",
+    "updateRule": "Guild/UpdateRule",
+    "requestJoinAgency": "Guild/RequestJoinAgency"
+  },
+  "userTransfer": "Report/transferReport",
+  "rateTransfer": "Report/getTransferRate",
+  "updateFullName": "Account/UpdateUserFullName",
+  "updateFullNameFB": "Account/UpdateUserFullNameFB",
+  "getEventAccInfo": "Mobile/GetEventAccountInfo",
+  "setEventAccInfo": "Mobile/SetEventAccountInfo",
+  "profile": "Profile/GetUserProfile",
+  "ranking": "Profile/getLeaderBoard",
+  "napXuHistory": "MoneyChange/napXuHistory",
+  "giftCode": "Account/GiftCode",
+  "vipCode": "Authen/LoginVipCode",
+  "checkOTP": "Privacy/VerifyOTP",
+  "getAgencies": "MoneyChange/GetBankInfo",
+  "agenciesTotal": "Agency/GetAgencies",
+  "genCodeBank": "https://gateway.gtagent.shop/service/TopupBank",
+  "checkAccountExists": "Account/CheckAccountExists",
+  "changeMobile": "Account/ChangeMobile",
+  "getFrozen": "Account/getFrozen",
+  "frozen": "Account/frozen",
+  "TransferHistory": "MoneyChange/TransferHistory",
+  "updateFirebaseKey": "Account/updateFirebaseKey",
+  "updateMobile": "Account/updateMobile",
+  "getOTPsms": "OTPAPI/getOtpSMS",
+  "getOtpSMSAuthen": "OTPAPI/getOtpSMSEx",
+  "deleteMobile": "Account/deleteMobile",
+  "getLoyalty": "Account/getLoyalty",
+  "iapURL": "MoneyChange/iap",
+  "trackingNewUser": "",
+"thanhtoan": "http://bpay247.com",
+  "urlFb": "https://www.facebook.com/v2.12/dialog/oauth?",
+  "vipPointLevel": "Loyalty/getVPLevel",
+  "userVipPoint": "Loyalty/getVPInfo",
+  "userVipPointHistory": "Loyalty/getTopReward",
+  "topRankVipPoint": "Loyalty/TopVP",
+  "PayReward" : "Loyalty/PayReward",
+  "linkTelegram": "https://telegram.org/",
+  "helpTelegram": "https://youtu.be/",
+  "MoneyOTPSMS": "1000",
+  "SendTelegramOTP": "OTPAPI/TelegramOTP",
+  "SendTelegramOTPEX": "OTPAPI/TelegramOTPEX",
+  "inbox": {
+    "getNotifyAll": "http://inboxapi.gtagent.shop/Notify/getNotifyAll",
+    "NotifyAndInboxGetList": "http://inboxapi.gtagent.shop/Notify/NotifyAndInboxGetList",
+    "NotifyGetDetail": "http://inboxapi.gtagent.shop/Notify/NotifyGetDetail",
+    "InboxGetDetail": "http://inboxapi.gtagent.shop/Inbox/InboxGetDetail",
+    "NotifyDelete": "http://inboxapi.gtagent.shop/Notify/NotifyDelete",
+    "InboxDelete": "http://inboxapi.gtagent.shop/Inbox/InboxDelete"
+  },
+  "getInfoMomo": "https://gateway.gtagent.shop/service/GetInfoMomo?amount=",
+  "transferFee": 2,
+  "qualityCardAllow": 3,
+  "feeChangeNickname": "50.000",
+  "iap": true,
+  "telco": "",
+  "telcoTopupSMS": "",
+  "smsOtp": "",
+  "napSMS": "",
+  "maxLevel": "200",
+  "rateBonToBac": 100,
+  "rateBonToCard": 115,
+  "rateCardToBon": 100,
+  "rateGateToBon": 100,
+  "rateSMSToBon": 0.5,
+  "promotion": 0,
+  "showAgency": true,
+  "tongDai": "",
+  "OTPMoney": "5.000",
+  "slot": true,
+  "public": true,
+  "showNapSMS": false,
+  "comingSoon": false,
+  "comingSoonText": "",
+  "events_x2": {
+    "url": "Event/EventX2",
+    "X2Prize": "Event/EventX2Prize"
+  },
+  "events": {
+    "url": "http://event.gtagent.shop/vqmm/",
+    "getTurnQuantity": "event/vqmmget",
+    "spin": "event/vqmmspin",
+    "captcha": "captcha/get",
+    "getPrizes": "http://event.gtagent.shop/vqmm/event/GetPrizes",
+    "GetBin": "http://event.gtagent.shop/vqmm/event/GetBin",
+    "GetCard": "http://event.gtagent.shop/vqmm/event/GetCard",
+    "DuDay": {
+      "GetEventTopRank": "http://tx.gtagent.shop/service/GetEventTopRank",
+      "GetEventTopMonthRank": "http://tx1.bon.club/service/GetEventTopMonthlyRank",
+      "GetEventTopQuarterRank": "http://tx1.bon.club/service/GetEventTopQuarterRank",
+      "GetPrizes": "http://tx.gtagent.shop/service/GetPrizes",
+      "GetBin": "http://tx.gtagent.shop/service/service/GetBin",
+      "GetBonFromMonthlyPrize": "http://tx.gtagent.shop/service/service/GetBonFromMonthlyPrize"
+    }
+  },
+  "taixiu": {
       "url": "https://tx.onestar22.xyz/signalr",
-      "maintain": false,
-      "developing": false,
-      "limitTotalBet": 150000000,
-      "limitUserBet": 50000000,
-      "show": false,
+    "maintain": false,
+    "developing": false,
+    "limitTotalBet": 150000000,
+    "limitUserBet": 50000000,
+    "show": false,
       "api_getTopAll": "https://tx.onestar22.xyz/service/DragonGetAll",
       "api_getTopNow": "https://tx.onestar22.xyz/service/GetDragonRank",
       "api_getTopGod": "https://tx.onestar22.xyz/service/GetGodJackpotHistory"
-    },
-    "caothap": {
-      "url": "https://ct.gtagent.shop/signalr",
-      "maintain": false,
-      "developing": false,
-      "show": false
-    },
-    "vutru": {
-      "url": "https://pumkin.gtagent.shop/gameHub",
-      "maintain": false,
-      "developing": false,
-      "show": false,
-      "getXJackpotHistory": "https://pumkin.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://pumkin.gtagent.shop/service/GetAllXJackpotInfo"
-    },
-    "angrybird": {
-      "url": "https://pumkin.gtagent.shop/gameHub",
-      "maintain": false,
-      "developing": false,
-      "show": false,
-      "getXJackpotHistory": "https://pumkin.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://pumkin.gtagent.shop/service/GetAllXJackpotInfo"
-    },
-    "slot777": {
-      "url": "https://luckywild.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false
-    },
-    "candy": {
-      "url": "https://ruby.gtagent.shop/gameHub",
-      "getXJackpotHistory": "https://ruby.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://ruby.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-    "minipoker": {
-      "url": "https://minipoker.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false,
-      "show": true,
-      "getXJackpotHistory": "https://minipoker.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://minipoker.gtagent.shop/service/GetAllXJackpotInfo"
-    },
-    "ccu": {
-      "url": "https://ccu.gtagent.shop/ccu/signalr"
-    },
-    "chat": {
-      "url": "https://chat.gtagent.shop/chatHub"
-    },
-    "dragontiger": {
-      "url": "https://tg.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false
-    },
-    "songoku": {
-      "url": "https://kungfu.gtagent.shop/gameHub",
-      "jackPot": "service/getjackpot",
-      "history": "api/History/GetUserHistoriesMobile",
-      "joinTryPlay": "api/Statistic/JoinTryPlay",
-      "tryPlaySpin": "api/Statistic/TryPlaySpin",
-      "getXJackpotHistory": "https://kungfu.gtagent.shop/service/GetXJackpotHistory",
-      "developing": false,
-      "maintain": false
-    },
-    "tienca": {
-      "url": "https://ariel.gtagent.shop/gameHub",
-      "jackPot": "service/getjackpot",
-      "history": "api/History/GetUserHistoriesMobile",
-      "joinTryPlay": "api/Statistic/JoinTryPlay",
-      "tryPlaySpin": "api/Statistic/TryPlaySpin",
-      "getXJackpotHistory": "https://ariel.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://ariel.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-    "zombie": {
-      "url": "https://easter.gtagent.shop/gameHub",
-      "getXJackpotHistory": "https://easter.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://easter.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-    "notification": {
-      "url": "https://notify.gtagent.shop/gateHub"
-    },
-    "locthu": {
-      "url": "https://bc.gtagent.shop/signalr",
-      "developing": false,
-      "maintain": false
-    },
-    "pharaoh": {
-      "url": "https://jungle.gtagent.shop/gameHub",
-      "getXJackpotHistory": "https://jungle.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://jungle.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-    "gem": {
-      "url": "https://aicap.gtagent.shop/gameHub",
-      "getXJackpotHistory": "https://aicap.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://aicap.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-     "asgard": {
-      "url": "https://asgardian.gtagent.shop/gameHub",
-      "getXJackpotHistory": "https://asgardian.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://asgardian.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-    "neko": {
-      "url": "https://neko.gtagent.shop/gameHub",
-      "getXJackpotHistory": "https://neko.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://neko.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-    "vampire": {
-      "url": "https://vampire.gtagent.shop/gameHub",
-      "getXJackpotHistory": "https://vampire.gtagent.shop/service/GetXJackpotHistory",
-      "getXJackpotInfo": "https://vampire.gtagent.shop/service/GetAllXJackpotInfo",
-      "developing": false,
-      "maintain": false
-    },
-    "lode": {
-      "url": "https://xs.gtagent.shop/api",
-      "getXJackpotHistory": "https://xs.gtagent.shop/",
-      "getXJackpotInfo": "https://xs.gtagent.shop/",
-      "developing": false,
-      "maintain": false
-    },
-    "bacay": {
-      "url": "https://bacay.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false,
-      "hot": true,
-      "vip": [
-        100,
-        -200,
-        -500,
-        1000,
-        -2000,
-        5000,
-        10000,
-        20000,
-        50000,
-        100000,
-        200000,
-        500000
-      ],
-      "free": [
-        -1000,
-        2000,
-        5000,
-        -10000,
-        20000,
-        50000,
-        100000,
-        200000,
-        -500000,
-        -1000000,
-        -2000000,
-        -5000000
-      ]
-    },
-    "xocdia3game": {
-      "url": "https://xd.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false,
-      "hot": false
-    },
-    "xocdia": {
-      "url": "https://xdfull.sn183636.fun/gameHub",
-      "developing": false,
-      "maintain": false,
-      "hot": false
-    },
-    "poker": {
-      "url": "https://poker.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false,
-      "rate_chip": 20,
-      "hot": false,
-      "vip": [
-        -100,
-        200,
-        -500,
-        1000,
-        2000,
-        5000,
-        10000,
-        20000,
-        50000,
-        100000,
-        200000,
-        -500000
-      ],
-      "free": [
-        1000,
-        -2000,
-        5000,
-        10000,
-        -20000,
-        50000,
-        100000,
-        -200000,
-        -500000,
-        -1000000,
-        -2000000,
-        -5000000
-      ]
-    },
-    "tlmnsl": {
-      "url": "https://tlmn.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false,
-      "hot": false,
-      "vip": [
-        -100,
-        200,
-        500,
-        1000,
-        2000,
-        5000,
-        10000,
-        20000,
-        50000,
-        100000,
-        200000,
-        -500000
-      ],
-      "free": [
-        1000,
-        2000,
-        5000,
-        -10000,
-        20000,
-        50000,
-        100000,
-        -200000,
-        -500000,
-        -1000000,
-        -2000000,
-        -5000000
-      ]
-    },
-    "thiendia": {
-      "url": "https://td.gtagent.shop/gameHub",
-      "developing": false,
-      "maintain": false
-    },
+  },
+  "caothap": {
+    "url": "https://ct.gtagent.shop/signalr",
+    "maintain": false,
+    "developing": false,
+    "show": false
+  },
+  "vutru": {
+    "url": "https://pumkin.gtagent.shop/gameHub",
+    "maintain": false,
+    "developing": false,
+    "show": false,
+    "getXJackpotHistory": "https://pumkin.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://pumkin.gtagent.shop/service/GetAllXJackpotInfo"
+  },
+  "angrybird": {
+    "url": "https://pumkin.gtagent.shop/gameHub",
+    "maintain": false,
+    "developing": false,
+    "show": false,
+    "getXJackpotHistory": "https://pumkin.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://pumkin.gtagent.shop/service/GetAllXJackpotInfo"
+  },
+  "slot777": {
+    "url": "https://luckywild.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false
+  },
+  "candy": {
+    "url": "https://ruby.gtagent.shop/gameHub",
+    "getXJackpotHistory": "https://ruby.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://ruby.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+  "minipoker": {
+    "url": "https://minipoker.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false,
+    "show": true,
+    "getXJackpotHistory": "https://minipoker.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://minipoker.gtagent.shop/service/GetAllXJackpotInfo"
+  },
+  "ccu": {
+    "url": "https://ccu.gtagent.shop/ccu/signalr"
+  },
+  "chat": {
+    "url": "https://chat.gtagent.shop/chatHub"
+  },
+  "dragontiger": {
+    "url": "https://tg.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false
+  },
+  "songoku": {
+    "url": "https://kungfu.gtagent.shop/gameHub",
+    "jackPot": "service/getjackpot",
+    "history": "api/History/GetUserHistoriesMobile",
+    "joinTryPlay": "api/Statistic/JoinTryPlay",
+    "tryPlaySpin": "api/Statistic/TryPlaySpin",
+    "getXJackpotHistory": "https://kungfu.gtagent.shop/service/GetXJackpotHistory",
+    "developing": false,
+    "maintain": false
+  },
+  "tienca": {
+    "url": "https://ariel.gtagent.shop/gameHub",
+    "jackPot": "service/getjackpot",
+    "history": "api/History/GetUserHistoriesMobile",
+    "joinTryPlay": "api/Statistic/JoinTryPlay",
+    "tryPlaySpin": "api/Statistic/TryPlaySpin",
+    "getXJackpotHistory": "https://ariel.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://ariel.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+  "zombie": {
+    "url": "https://easter.gtagent.shop/gameHub",
+    "getXJackpotHistory": "https://easter.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://easter.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+  "notification": {
+    "url": "https://notify.gtagent.shop/gateHub"
+  },
+  "locthu": {
+    "url": "https://bc.gtagent.shop/signalr",
+    "developing": false,
+    "maintain": false
+  },
+  "pharaoh": {
+    "url": "https://jungle.gtagent.shop/gameHub",
+    "getXJackpotHistory": "https://jungle.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://jungle.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+  "gem": {
+    "url": "https://aicap.gtagent.shop/gameHub",
+    "getXJackpotHistory": "https://aicap.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://aicap.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+   "asgard": {
+    "url": "https://asgardian.gtagent.shop/gameHub",
+    "getXJackpotHistory": "https://asgardian.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://asgardian.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+  "neko": {
+    "url": "https://neko.gtagent.shop/gameHub",
+    "getXJackpotHistory": "https://neko.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://neko.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+  "vampire": {
+    "url": "https://vampire.gtagent.shop/gameHub",
+    "getXJackpotHistory": "https://vampire.gtagent.shop/service/GetXJackpotHistory",
+    "getXJackpotInfo": "https://vampire.gtagent.shop/service/GetAllXJackpotInfo",
+    "developing": false,
+    "maintain": false
+  },
+  "lode": {
+    "url": "https://xs.gtagent.shop/api",
+    "getXJackpotHistory": "https://xs.gtagent.shop/",
+    "getXJackpotInfo": "https://xs.gtagent.shop/",
+    "developing": false,
+    "maintain": false
+  },
+  "bacay": {
+    "url": "https://bacay.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false,
+    "hot": true,
+    "vip": [
+      100,
+      -200,
+      -500,
+      1000,
+      -2000,
+      5000,
+      10000,
+      20000,
+      50000,
+      100000,
+      200000,
+      500000
+    ],
+    "free": [
+      -1000,
+      2000,
+      5000,
+      -10000,
+      20000,
+      50000,
+      100000,
+      200000,
+      -500000,
+      -1000000,
+      -2000000,
+      -5000000
+    ]
+  },
+  "xocdia3game": {
+    "url": "https://xd.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false,
+    "hot": false
+  },
+  "xocdia": {
+    "url": "https://xdfull.sn183636.fun/gameHub",
+    "developing": false,
+    "maintain": false,
+    "hot": false
+  },
+  "poker": {
+    "url": "https://poker.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false,
+    "rate_chip": 20,
+    "hot": false,
+    "vip": [
+      -100,
+      200,
+      -500,
+      1000,
+      2000,
+      5000,
+      10000,
+      20000,
+      50000,
+      100000,
+      200000,
+      -500000
+    ],
+    "free": [
+      1000,
+      -2000,
+      5000,
+      10000,
+      -20000,
+      50000,
+      100000,
+      -200000,
+      -500000,
+      -1000000,
+      -2000000,
+      -5000000
+    ]
+  },
+  "tlmnsl": {
+    "url": "https://tlmn.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false,
+    "hot": false,
+    "vip": [
+      -100,
+      200,
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      20000,
+      50000,
+      100000,
+      200000,
+      -500000
+    ],
+    "free": [
+      1000,
+      2000,
+      5000,
+      -10000,
+      20000,
+      50000,
+      100000,
+      -200000,
+      -500000,
+      -1000000,
+      -2000000,
+      -5000000
+    ]
+  },
+  "thiendia": {
+    "url": "https://td.gtagent.shop/gameHub",
+    "developing": false,
+    "maintain": false
+  },
     "Is_Agency_Transfer" : true,
     "ListNV" : "Event/QuestDaily",
     "NhanthuongNV" : "Event/QuestDailyPrize",
-      "VippointByAccount" : "Loyalty/VippointByAccount",
-    "topRankVipPointNew": "Loyalty/TopVPV2",
+    "VippointByAccount" : "Loyalty/VippointByAccount",
+  "topRankVipPointNew": "Loyalty/TopVPV2",
     "VippointByAccountNew" : "Loyalty/VippointByAccountV2",
     "EventStartDateTheoDot" : "2021-05-01",
     "EventEndDateTheoDot" : "2021-05-05 23:59:59",
     "EventStartDateTheoThang" : "2021-05-01",
     "EventEndDateTheoThang" : "",
-    "portal365": "https://portal.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/",
-    "loginFB365": "https://portal.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/Authen/LoginFacebook",
-    "gateway365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/",
-    "getHistoryBank365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz//service/GetHistoryBank",
-    "getCardInfo365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/service/GetCardInfo",
-    "genCodeBank365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/service/TopupBank",
-    "getInfoMomo365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/service/GetInfoMomo?amount=",
-    "telegramBot365": "https://t.me/sn_365_bot",
-    "teleNews365":"",
-    "fanpage365": "https://www.facebook.com/SAPNOCLUB2021/",
-    // "facebookMessage": "https://www.facebook.com/messages/t/100780068609753",
-    "group365": "https://www.facebook.com/groups/Vieclamhatinh38",
-    "portalbxh" : "https://portal.gtagent.shop/"
-  }
+  "portal365": "https://portal.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/",
+  "loginFB365": "https://portal.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/Authen/LoginFacebook",
+  "gateway365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/",
+  "getHistoryBank365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz//service/GetHistoryBank",
+  "getCardInfo365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/service/GetCardInfo",
+  "genCodeBank365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/service/TopupBank",
+  "getInfoMomo365": "https://gateway.sn1d41d8cd98f00b204e9800998ecf8427e.xyz/service/GetInfoMomo?amount=",
+  "telegramBot365": "https://t.me/sn_365_bot",
+  "teleNews365":"",
+  "fanpage365": "https://www.facebook.com/SAPNOCLUB2021/",
+  "group365": "https://www.facebook.com/groups/Vieclamhatinh38",
+  "portalbxh" : "https://portal.gtagent.shop/"
+}
