@@ -1,0 +1,26 @@
+{
+"SapNo" :{
+   "location" : "VN|All"
+  },
+  "99vin" :{
+   "location" : "VN|KM"
+  },
+   "SapNo2" :{
+   "location" : "All"
+  },
+  "SapNoRoyal" :
+  {
+   "location" : "VN|PH"
+  },
+  "Vinluxury" :
+  {
+   "location" : "VN|KH"
+  },
+   "VinLov9" :
+  {
+   "location" : "VN|KH"
+  },
+  "sieuno":{
+   "location" : "XTZ|FF"
+  }
+}
